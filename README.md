@@ -1,4 +1,6 @@
-### Hi there 👋
+세상이 참 넓네요😄
+
+- [Today I Learned](https://sponge-pigment-675.notion.site/TIL-d4b9d1b84d7c4d78bcc3bf6907dddd61)
 
 <!--
 **zeallat/zeallat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
