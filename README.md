@@ -1,8 +1,5 @@
 👋
 
-- [Today I Learned](https://sponge-pigment-675.notion.site/TIL-d4b9d1b84d7c4d78bcc3bf6907dddd61)
-- [Today I Read](https://sponge-pigment-675.notion.site/TIR-28847634b18947428a6b3067f1b90330)
-
 <!--
 **zeallat/zeallat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
